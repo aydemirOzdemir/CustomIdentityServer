@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "w4YcTVcPZLnRQKUvNAackiiAN5311X7bLbkwVqwjw1fvVLAc8oHV4ZAyTnE5gF2A6nagrbjN9uX37Bq6Ho8ZQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alpar\\OneDrive\\Masaüstü\\Eğitim Projeler\\CustomIdentityServer\\IdentityServerExample.Client1\\IdentityServerExample.Client1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alpar\\.nuget\\packages\\identitymodel\\6.2.0\\identitymodel.6.2.0.nupkg.sha512",
+    "C:\\Users\\alpar\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\8.0.2\\microsoft.aspnetcore.authentication.openidconnect.8.0.2.nupkg.sha512",
+    "C:\\Users\\alpar\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.1.2\\microsoft.identitymodel.abstractions.7.1.2.nupkg.sha512",
+    "C:\\Users\\alpar\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.1.2\\microsoft.identitymodel.jsonwebtokens.7.1.2.nupkg.sha512",
+    "C:\\Users\\alpar\\.nuget\\packages\\microsoft.identitymodel.logging\\7.1.2\\microsoft.identitymodel.logging.7.1.2.nupkg.sha512",
+    "C:\\Users\\alpar\\.nuget\\packages\\microsoft.identitymodel.protocols\\7.1.2\\microsoft.identitymodel.protocols.7.1.2.nupkg.sha512",
+    "C:\\Users\\alpar\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\7.1.2\\microsoft.identitymodel.protocols.openidconnect.7.1.2.nupkg.sha512",
+    "C:\\Users\\alpar\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.1.2\\microsoft.identitymodel.tokens.7.1.2.nupkg.sha512",
+    "C:\\Users\\alpar\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\alpar\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.1.2\\system.identitymodel.tokens.jwt.7.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
